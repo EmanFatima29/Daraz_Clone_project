@@ -1,3 +1,4 @@
+//ui components
 import HomeItem from "../components/HomeItem";
 import { useSelector } from "react-redux";
 import Carousel from "../components/carousel";
